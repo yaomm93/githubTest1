@@ -13,4 +13,7 @@ public class User {
     public static void main(String[] args) {
         System.out.println("你好1");
     }
+    public void Hello(int i){
+        System.out.println(i+"次问候");
+    }
 }
